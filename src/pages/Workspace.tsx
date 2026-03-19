@@ -179,7 +179,5 @@ const Workspace = () => {
   );
 };
 
-// Need to import Zap for the button
-import { Zap } from "lucide-react";
 
 export default Workspace;
